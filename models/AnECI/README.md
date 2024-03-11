@@ -1,5 +1,5 @@
 # AnECI 
-
+### Forked from "https://github.com/Gmrylbx/AnECI"
 A PyTorch implementation of "Robust Attributed Network Embedding Preserving Community Information"
 
 
