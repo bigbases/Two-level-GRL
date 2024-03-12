@@ -1,4 +1,4 @@
-# Two-Level Graph Representation Learning with Community-as-a-Node Graphs
+# Two-Level Graph Representation Learning with Community-as-a-Node Graphs (ICDM2023)
 
 The source code for the paper "Two-Level Graph Representation Learning with Community-as-a-Node Graphs", which was presented at ICDM 2023.
 
