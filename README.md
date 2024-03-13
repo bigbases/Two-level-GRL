@@ -74,7 +74,7 @@ Other datasets can be obtained from [stellargraph library](https://stellargraph.
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
 
-    https://github.com/parkjungha/Two-level-GRL.git
+    https://github.com/bigbases/Two-level-GRL.git
 
 or download a zip archive.
 
