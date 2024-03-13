@@ -40,19 +40,34 @@ For a detailed description of running the model, see the original GitHub reposit
 
 3. [GCA](https://github.com/CRIPAC-DIG/GCA) (WWW 2021)
 
-All other source codes in the paper are in the `codes` folder.
+All other models' source codes in the paper are in the `codes` folder.
+
+4. [GAT](https://github.com/bigbases/Two-level-GRL/blob/master/codes/gat.py)
+
+5. [GCN](https://github.com/bigbases/Two-level-GRL/blob/master/codes/gcn.py)
+
+6. [GraphSAGE](https://github.com/bigbases/Two-level-GRL/blob/master/codes/graphsage.py)
+
+7. [Node2Vec](https://github.com/bigbases/Two-level-GRL/blob/master/codes/node2vec.py) 
 
 
 ## Dataset
 
-Dataset used in this study is provided in `datasets`
+Datasets used in this study is provided in `datasets`
 
 1. [Foursquare](https://sites.google.com/site/yangdingqi/home/foursquare-dataset)
 
 2. [Flickr](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset)
 
-Other datasets (PubMed and CiteSeer) can be obtained from [stellargraph library](https://stellargraph.readthedocs.io/en/v0.9.0/_modules/stellargraph/datasets/datasets.html). 
+3. [YouTube](https://snap.stanford.edu/data/com-Youtube.html)
 
+Other datasets can be obtained from [stellargraph library](https://stellargraph.readthedocs.io/en/v0.9.0/_modules/stellargraph/datasets/datasets.html). 
+
+4. [PubMed](https://stellargraph.readthedocs.io/en/v1.0.0rc1/_modules/stellargraph/datasets/datasets.html#PubMedDiabetes)
+
+5. [CiteSeer](https://stellargraph.readthedocs.io/en/v1.0.0rc1/_modules/stellargraph/datasets/datasets.html#CiteSeer)
+
+   
 ## Getting the code
 
 You can download a copy of all the files in this repository by cloning the
