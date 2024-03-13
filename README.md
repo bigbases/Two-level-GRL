@@ -42,13 +42,14 @@ For a detailed description of running the model, see the original GitHub reposit
 
 All other models' source codes in the paper are in the `codes` folder.
 
-4. [GAT](https://github.com/bigbases/Two-level-GRL/blob/master/codes/gat.py)
+4. [Node2Vec](https://github.com/bigbases/Two-level-GRL/blob/master/codes/node2vec.py) (SIGKDD 2016)
 
-5. [GCN](https://github.com/bigbases/Two-level-GRL/blob/master/codes/gcn.py)
+5. [GCN](https://github.com/bigbases/Two-level-GRL/blob/master/codes/gcn.py) (ICLR 2017)
 
-6. [GraphSAGE](https://github.com/bigbases/Two-level-GRL/blob/master/codes/graphsage.py)
+6. [GraphSAGE](https://github.com/bigbases/Two-level-GRL/blob/master/codes/graphsage.py) (NIPS 2017)
 
-7. [Node2Vec](https://github.com/bigbases/Two-level-GRL/blob/master/codes/node2vec.py) 
+7. [GAT](https://github.com/bigbases/Two-level-GRL/blob/master/codes/gat.py) (ICLR 2018)
+
 
 
 ## Dataset
